@@ -6,4 +6,5 @@ This project demonstrates a Responsible AI tool that addresses queries related t
 - **[Main code](https://github.com/Satarupa22-SD/Responsible-AI/blob/main/Responsible_llama.ipynb)**
 - **[Documentation](https://github.com/Satarupa22-SD/Responsible-AI/blob/main/README.md)**
 - **[Requirements](https://github.com/Satarupa22-SD/Responsible-AI/blob/main/requirements.txt)**
+- **[Benchmarks](https://docs.google.com/document/d/13N8i3wOuUXEWKS-Zv0FjHhD0K4JJgKCslhavvnQwrz4/edit?usp=sharing)**
 
