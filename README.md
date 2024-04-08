@@ -3,7 +3,7 @@
 This project demonstrates a Responsible AI tool that addresses queries related to responsible AI practices. The tool utilizes PyPDF2 for PDF text extraction, transformers for language modeling, and llama_index for document indexing and querying. The provided script is optimized for running in a Google Colab environment equipped with ample RAM and making use of a T4 GPU. It is specifically configured to utilize the "meta-llama/Llama-2-7b-chat-hf" model hosted locally for both the extraction and response processes.
 
 ## Files
-- **Main code :**
-- **Documentation :**
+- **[Main code](https://github.com/Satarupa22-SD/Responsible-AI/blob/main/responsible_llama.ipynb)**
+- **[Documentation](https://github.com/Satarupa22-SD/Responsible-AI/blob/main/README.md)**
 - **[Requirements](https://github.com/Satarupa22-SD/Responsible-AI/blob/main/requirements.txt)**
 
