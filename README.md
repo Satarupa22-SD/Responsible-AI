@@ -5,5 +5,5 @@ This project demonstrates a Responsible AI tool that addresses queries related t
 ## Files
 - **Main code :**
 - **Documentation :**
-- **Requirements :**
+- **[Requirements](https://github.com/Satarupa22-SD/Responsible-AI/blob/main/requirements.txt)**
 
